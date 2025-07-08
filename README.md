@@ -4,22 +4,26 @@
 This project presents a full-featured **Streamlit** dashboard built during the Imarticus Data Science Internship. It simulates e-commerce behavior in real time, visualizes customer/product trends, predicts purchase likelihood using machine learning, and features a PDF-based chatbot using Retrieval-Augmented Generation (RAG).
 
 
-### 🔹 App Overview  
-![App Screenshot](images/app-screenshot.png)
+### 🔹 Live E-Commerce Data Stream  
+<img width="951" height="398" alt="Live Stream" src="https://github.com/user-attachments/assets/f0f5272b-7460-4573-a82c-759c69f2c55b" />
 
-### 🔹 RAG Chatbot  
-![Chatbot Screenshot](images/chatbot-screenshot.png)
+### 🔹 PDF Q&A via RAG Chatbot  
+<img width="959" height="404" alt="Chatbot" src="https://github.com/user-attachments/assets/44997ec5-6625-4db4-a4a8-39c7b2dc5a36" />
 
-### 🔹 Real-Time Data Simulation  
-![Data Stream Screenshot](images/ecommerce-model-screenshot.png)
+### 🔹 Real-Time Data Generation  
+<img width="959" height="403" alt="Ecommerce Model" src="https://github.com/user-attachments/assets/5118e58b-876d-479a-b3f7-154876ca5820" />
 
 ### 🔹 ML Prediction Panel  
-![Prediction Panel](images/prediction-screenshot-1.png)  
-![Prediction Input Summary](images/prediction-screenshot-2.png)
+<img width="959" height="410" alt="ML Prediction" src="https://github.com/user-attachments/assets/598c195e-b882-4c7f-bbb8-b9c98c0b9fc3" />
 
-### 🔹 Visual Insights  
-![KPI Dashboard](images/visual-screenshot-1.png)  
-![Cart Behavior Charts](images/visual-screenshot-2.png)
+### 🔹 Input Summary for Prediction  
+<img width="958" height="407" alt="Input Summary" src="https://github.com/user-attachments/assets/db107db4-3cf2-44bc-8527-8cb1243ec819" />
+
+### 🔹 Enhanced Visual Insights Dashboard  
+<img width="959" height="407" alt="Visual Dashboard" src="https://github.com/user-attachments/assets/d206ef10-56ba-405d-bccd-df3ead88c81f" />
+
+### 🔹 Cart Abandonment Analysis  
+<img width="956" height="408" alt="Cart Insights" src="https://github.com/user-attachments/assets/53a6a592-014d-498f-9d8e-a55b44220b50" />
 
 ---
 
