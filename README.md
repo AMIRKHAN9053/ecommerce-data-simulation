@@ -3,6 +3,24 @@
 ## Project Overview
 This project presents a full-featured **Streamlit** dashboard built during the Imarticus Data Science Internship. It simulates e-commerce behavior in real time, visualizes customer/product trends, predicts purchase likelihood using machine learning, and features a PDF-based chatbot using Retrieval-Augmented Generation (RAG).
 
+
+### 🔹 App Overview  
+![App Screenshot](images/app-screenshot.png)
+
+### 🔹 RAG Chatbot  
+![Chatbot Screenshot](images/chatbot-screenshot.png)
+
+### 🔹 Real-Time Data Simulation  
+![Data Stream Screenshot](images/ecommerce-model-screenshot.png)
+
+### 🔹 ML Prediction Panel  
+![Prediction Panel](images/prediction-screenshot-1.png)  
+![Prediction Input Summary](images/prediction-screenshot-2.png)
+
+### 🔹 Visual Insights  
+![KPI Dashboard](images/visual-screenshot-1.png)  
+![Cart Behavior Charts](images/visual-screenshot-2.png)
+
 ---
 
 ## Dataset
